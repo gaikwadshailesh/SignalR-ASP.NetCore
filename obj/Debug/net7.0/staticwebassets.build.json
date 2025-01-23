@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "SzzKJ1XtpM5cjohYdHKoUMqq974w5erCW/U570pI7wo=",
+  "Source": "SignalRDemo",
+  "BasePath": "_content/SignalRDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRDemo\\wwwroot",
+      "Source": "SignalRDemo",
+      "ContentRoot": "D:\\Shailesh\\Technical\\GithubContributions\\cursor\\SignalR-ASP.NetCore\\wwwroot\\",
+      "BasePath": "_content/SignalRDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Shailesh\\Technical\\GithubContributions\\cursor\\SignalR-ASP.NetCore\\wwwroot\\js\\chat.js",
+      "SourceId": "SignalRDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Shailesh\\Technical\\GithubContributions\\cursor\\SignalR-ASP.NetCore\\wwwroot\\",
+      "BasePath": "_content/SignalRDemo",
+      "RelativePath": "js/chat.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\chat.js"
+    },
+    {
+      "Identity": "D:\\Shailesh\\Technical\\GithubContributions\\cursor\\SignalR-ASP.NetCore\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "SourceId": "SignalRDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Shailesh\\Technical\\GithubContributions\\cursor\\SignalR-ASP.NetCore\\wwwroot\\",
+      "BasePath": "_content/SignalRDemo",
+      "RelativePath": "js/signalr/dist/browser/signalr.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Identity": "D:\\Shailesh\\Technical\\GithubContributions\\cursor\\SignalR-ASP.NetCore\\wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js",
+      "SourceId": "SignalRDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Shailesh\\Technical\\GithubContributions\\cursor\\SignalR-ASP.NetCore\\wwwroot\\",
+      "BasePath": "_content/SignalRDemo",
+      "RelativePath": "js/signalr/dist/browser/signalr.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\signalr\\dist\\browser\\signalr.min.js"
+    }
+  ]
+}
